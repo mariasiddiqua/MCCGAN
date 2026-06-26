@@ -46,7 +46,7 @@ python test.py --dataroot ./datasets/yourdataset --name restore --direction AtoB
 
 ## Citation
 
-If you use this code for your research, please cite our papers.
+If you use this code for your research, please cite our paper.
 
 ```
 @article{doi:10.1142/S0219467825500111,
